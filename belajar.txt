@@ -1,2 +1,3 @@
 Halo Git git status
 Saya belajar Git di Linux
+Belajar Linux dan GitHub
